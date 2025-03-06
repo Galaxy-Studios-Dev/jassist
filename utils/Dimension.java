@@ -2,7 +2,7 @@ package gsd.jassist.utils;
 
 import java.util.HashMap;
 
-public class WindowDimension {
+public class Dimension {
     private int x;
     private int y;
     private int width;
